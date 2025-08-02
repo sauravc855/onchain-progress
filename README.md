@@ -30,7 +30,7 @@ This repository tracks all my major on-chain activities, NFT participation and l
 - Track NFT activity and collection progress  
 - Log weekly interactions across Base, Arbitrum, Ink Chain, and more  
 - Explore more 
-
+29/8/2025
 ---- ✅ Minted ENS Domain: **sauravxyz.eth** ([0xd13c317a88cf10e36c1811bdd83ce001d263189ff708bf102121e509cff0b2e6](https://etherscan.io/block/23023012)
 
 
