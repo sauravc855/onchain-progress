@@ -33,5 +33,10 @@ This repository tracks all my major on-chain activities, NFT participation and l
 29/8/2025
 ---- ✅ Minted ENS Domain: **sauravxyz.eth** ([0xd13c317a88cf10e36c1811bdd83ce001d263189ff708bf102121e509cff0b2e6](https://etherscan.io/block/23023012)
 
+activity this week
+## 🎉 My Ethereum 10 Years NFT
+![Ethereum NFT] https://opensea.io/item/ethereum/0x26d85a13212433fe6a8381969c2b0db390a0b0ae/253528
+
+Minted on Ethereum's 10th Anniversary 🎂
 
 *Maintained by Saurav.*
